@@ -77,4 +77,46 @@ Optiviz helps:
 - Persistent user growth tracking  
 - Production-ready full-stack architecture  
 
+---
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend
+- **Next.js (App Router)** – Enables modern full-stack React architecture with server-side rendering and optimized routing.  
+- **React** – Component-based UI development for scalable and reusable interface design.  
+- **Tailwind CSS** – Utility-first styling for fast and responsive UI development.  
+- **ShadCN UI** – Pre-built accessible UI components for clean and modern design.
+
+---
+
+### ⚙ Backend
+- **Next.js Server Actions** – Handles server-side logic, API handling, and secure data processing.  
+- **Prisma ORM** – Type-safe database access and schema management.
+
+---
+
+### 🗄 Database
+- **PostgreSQL (Neon)** – Cloud-hosted relational database for scalable and reliable data storage.
+
+---
+
+### 🔐 Authentication
+- **Clerk** – Secure user authentication, session management, and user profile handling.
+
+---
+
+### 🧠 Artificial Intelligence
+- **Google Gemini API** – Generates personalized career recommendations, learning paths, and course suggestions using AI.
+
+---
+
+### ☁ Deployment & Hosting
+- **Vercel** – Fast and optimized deployment platform for Next.js applications.
+
+---
+
+### 🧩 Development Tools
+- Git & GitHub – Version control and collaboration  
+- Prisma Studio – Database visualization and management
+
 **Optiviz doesn’t just suggest careers — it builds the journey to reach them.**
